@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433084774260",
+    "project_id": "sochialapp-371d9",
+    "storage_bucket": "sochialapp-371d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433084774260:android:4223b244255e95a554de21",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433084774260-2fj79kh9p28uhflmvtmbi186su20oenc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "6b57bc253e9f83a41e1093697b97e1ab18d59d8f"
+          }
+        },
+        {
+          "client_id": "433084774260-ss488m8kpmo30si5qtr6f2u4nclvnbqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtGtiZgz2_USlZ5pwBIgiCU3mLhVWMsA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433084774260-ss488m8kpmo30si5qtr6f2u4nclvnbqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
